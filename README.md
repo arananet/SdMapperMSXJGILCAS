@@ -20,7 +20,7 @@ Se incluye el esquema y los ficheros gerbers para fabricarlo.
 | Part          | Value                   | Package                        |
 | ------------- | ----------------------- | ------------------------------ |      
 |  C1           | 100n                    | C0805                          |
-|  C2           | 100u                    | SMC_B                          |
+|  C2           | 100uf                   | C0805                          |
 |  C3           | 100n                    | C0805                          |
 |  C4           | 100n                    | C0805                          |
 |  C5           | 100n                    | C0805                          |
@@ -42,5 +42,5 @@ Se incluye el esquema y los ficheros gerbers para fabricarlo.
 |  S2           | TL32YO                  | TL3XYO                         |
 |  T1           | BC858                   | SOT23-BEC                      |
 |  U1           | USD-SOCKETUSD           | USD-SOCKET-PP                  |
-|  X1           | 25MHz                   | SM77H                          |
+|  X1           | 25MHz                   | 7X5 OSCILLATOR                 |
 
