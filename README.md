@@ -14,6 +14,12 @@ Se incluye el esquema y los ficheros gerbers para fabricarlo.
 
 05/08/2017: Version inicial del PCB.
 
+# License
+
+https://ohwr.org/cernohl
+
+Copyright (c) 2014 - Fabio Belavenuto
+Copyright (c) 2017 - @Edu_Arana
 
 # Lista de materiales
 
@@ -43,4 +49,6 @@ Se incluye el esquema y los ficheros gerbers para fabricarlo.
 |  T1           | BC858                   | SOT23-BEC                      |
 |  U1           | USD-SOCKETUSD           | USD-SOCKET-PP                  |
 |  X1           | 25MHz                   | 7X5 OSCILLATOR                 |
+
+
 
