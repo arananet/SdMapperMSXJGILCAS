@@ -19,6 +19,7 @@ Se incluye el esquema y los ficheros gerbers para fabricarlo.
 https://ohwr.org/cernohl
 
 Copyright (c) 2014 - Fabio Belavenuto
+
 Copyright (c) 2017 - @Edu_Arana
 
 # Lista de materiales
