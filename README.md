@@ -13,8 +13,13 @@ If you like the project or want to support it, you can buy me a beer or a KO-FI 
 
 <img src="https://github.com/arananet/SdMapperMSXJGILCAS/blob/master/images/front.png?raw=true" width="700">
 
+# Pinout
+
+<img src="https://github.com/arananet/SdMapperMSXJGILCAS/blob/master/images/pinout.png?raw=true" width="700">
+
 # Updates
 
+13/09/2023: Añadido pinout de programación.
 05/08/2017: Version inicial del PCB.
 
 # License
