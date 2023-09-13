@@ -15,7 +15,18 @@ If you like the project or want to support it, you can buy me a beer or a KO-FI 
 
 # Pinout
 
-<img src="https://github.com/arananet/SdMapperMSXJGILCAS/blob/master/images/pinout.png?raw=true" width="700">
+1-TCK
+2-GND
+3-TDO
+4-VCC
+5-TMS
+6-NC
+7-NC
+8-NC
+9-TDI
+10-GND
+
+<img src="https://github.com/arananet/SdMapperMSXJGILCAS/blob/master/images/pinout_nuevo.png?raw=true" width="700">
 
 # Updates
 
